@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "titulo":"Babidi",
+        "imagen":"http://localhost:3000/babidi.png"
+    },
+    {
+        "id":"2",
+        "titulo":"Dabura",
+        "imagen":"https://e1.pxfuel.com/desktop-wallpaper/679/210/desktop-wallpaper-dragon-ball-z-dabura-png-dabura.jpg"
+    },
+    {
+        "id":"3",
+        "titulo":"MaginBoo",
+        "imagen":"https://laverdadnoticias.com/__export/1601493497994/sites/laverdad/img/2020/09/30/dragon_ball_super_majin_boo.png_1902800913.png"
+    },
+    {
+        "id":"4",
+        "titulo":"Soldado",
+        "imagen":"http://localhost:3000/soldadom.jpg"
+    },
+    {
+        "id":"5",
+        "titulo":"Vegeta-M",
+        "imagen":"https://e7.pngegg.com/pngimages/661/901/png-clipart-vegeta-majin-buu-goku-gohan-frieza-majin-vegeta-superhero-cartoon.png"
+    }
+]
